@@ -1,0 +1,41 @@
+/*styling af body*/
+
+body{
+ background-color: #FFB400;
+ font-family: helvetica;
+ color: purple;
+
+}
+
+
+
+
+/*----- 
+
+Resposive sizes: Sæt sizing ind til de forskellige størrelser.
+
+-----*/
+
+/*mobil*/
+@media(max-width:767px){
+       
+}
+
+/*tablet*/
+@media(min-width:768px)and(max-width: 1023px){
+        
+}
+/*desktop*/
+@media(min-width:1024px){
+    
+}
+
+/*----- 
+
+            Global: generelle regler for hele sited som fx. font family, serif, color etc.
+
+-----*/
+*{
+    box-sizing: border-box;
+}
+
